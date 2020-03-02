@@ -16,7 +16,7 @@ def main():
             hiden_word = generate_hiden_word(word)
             spaces_to_complete = hiden_word[:]
 
-            display_ahorcado(i)
+            #display_ahorcado(i)
             display_gameboard(hiden_word)
 
             while i < ahorcado_parts:
