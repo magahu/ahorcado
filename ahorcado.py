@@ -3,7 +3,7 @@ from figures import FIGURES
 from words import WORDS
 
 def welcome():
-    print('{} W E L C O M E  T O  A H O R C A D O {}'.format('*'*50, '*'*50))
+    print('{}  W E L C O M E  T O  A H O R C A D O  {}'.format(' * '*3, ' * '*3))
 
 
 def get_option():
